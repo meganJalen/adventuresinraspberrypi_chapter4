@@ -1,0 +1,35 @@
+import turtle
+John = turtle.Turtle()
+John.shape("turtle")
+John.pendown()
+John.color("purple")
+John.forward(100)
+John.penup()
+John.pensize(5)
+John.forward(100)
+John.stamp()
+John.forward(100)
+John.left(90)
+John.stamp()
+John.forward(100)
+John.stamp()
+John.forward(100)
+John.left(90)
+John.pendown()
+John.forward(200)
+John.left(90)
+John.forward(100)
+John.right(90)
+John.forward(200)
+John.right(90)
+John.forward(100)
+John.penup()
+John.left(90)
+John.forward(90)
+John.stamp()
+John.forward(90)
+
+
+
+
+
